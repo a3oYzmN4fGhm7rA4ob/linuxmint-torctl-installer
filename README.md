@@ -1,5 +1,5 @@
 # linuxmint-torctl-installer
-A bash script to easily install the torctl [torctl](https://github.com/BlackArch/torctl) by BlackArch on [Linux Mint](https://github.com/linuxmint). 
+A bash script to easily install the [torctl](https://github.com/BlackArch/torctl) tool on [Linux Mint](https://github.com/linuxmint). 
 
 > It should work on other Debian/Ubuntu distributions, but I have not tested.
 
