@@ -5,6 +5,7 @@ echo "Script: Starting!"
 cd ~
 apt install git
 apt install tor
+apt install iptables
 apt install tor macchanger secure-delete
 echo "Script: Installed requirements."
 git clone https://github.com/BlackArch/torctl
