@@ -20,7 +20,7 @@ sudo bash install_torctl.sh
 ```
 
 ### Alternatively
-Even if you don't have git installed, you can run this single command that will do everything at once.
+Even if you don't have git installed, you can run this single command that will do everything at once. You may need to run this in a privliged shell.
 ```
 sudo apt install git && git clone https://github.com/a3oYzmN4fGhm7rA4ob/linuxmint-torctl-installer && cd linuxmint-torctl-installer && sudo bash install_torctl.sh && cd ..
 ```
